@@ -46,6 +46,6 @@ My journey in software development is a continuous learning process. Currently, 
 
 ### 🌟 Let's Connect!
 
-I am always open to new projects, collaborations, and conversations within the tech community. Whether you're looking for a MERN stack developer, Android app developer, or someone exploring PHP Laravel and ASP.NET, feel free to reach out!
+I am always open to do new projects, collaborations, and conversations within the tech community. Whether you're looking for a MERN stack developer, Android app developer, or someone exploring PHP Laravel and ASP.NET, feel free to reach out!
 
 Connect with me on [LinkedIn](linkedin.com/in/nafiul-hasan-524274276) or drop me an email at [nafiulhasan125884@gmail.com ]. Looking forward to the exciting opportunities ahead!
